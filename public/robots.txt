@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://inkwell-co.zappy5.app/sitemap.xml
+Sitemap: https://zappy-site-cfedb80c-3953-4af9-aaed.onrender.com/sitemap.xml

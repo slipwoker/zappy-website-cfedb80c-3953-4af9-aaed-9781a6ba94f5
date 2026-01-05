@@ -1,47 +1,57 @@
-# Business — Generative Engine Optimization Map
+# Inkwell & Co. — Generative Engine Optimization Map
+
+> A creative services business.
 
 ---
 
 ## Pages
 
 ### Home
-https://inkwell-co.zappy5.app
+https://zappy-site-cfedb80c-3953-4af9-aaed.onrender.com
 Discover expert brand name logo and brand identity design that drives real results. Transform your brand with Inkwell & Co.'s creative services.
 
 ### Services
-https://inkwell-co.zappy5.app/services
+https://zappy-site-cfedb80c-3953-4af9-aaed.onrender.com/services
 Professional brand identity design services tailored to your needs. Expert brand name logo creation, comprehensive branding, and original artwork from Inkwell & Co.
 
 ### About
-https://inkwell-co.zappy5.app/about
+https://zappy-site-cfedb80c-3953-4af9-aaed.onrender.com/about
 Learn about Inkwell & Co.'s approach to branding and brand identity design. Discover our passion for creating exceptional brand name logo designs and original artwork.
 
 ### Contact
-https://inkwell-co.zappy5.app/contact
+https://zappy-site-cfedb80c-3953-4af9-aaed.onrender.com/contact
 Contact Inkwell & Co. for brand identity design, brand name logo creation, or original artwork inquiries. Let's discuss your branding project today.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://inkwell-co.zappy5.app/privacy
+https://zappy-site-cfedb80c-3953-4af9-aaed.onrender.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://inkwell-co.zappy5.app/terms
+https://zappy-site-cfedb80c-3953-4af9-aaed.onrender.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://inkwell-co.zappy5.app/accessibility
+https://zappy-site-cfedb80c-3953-4af9-aaed.onrender.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About Inkwell & Co.
+Inkwell & Co. is a business in the creative services industry.
+
+## Target Audience
+businesses needing branding, art collectors, galleries
+
+## Industry
+creative services
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://inkwell-co.zappy5.app/sitemap.xml
-- **Robots.txt**: https://inkwell-co.zappy5.app/robots.txt
+- **Sitemap**: https://zappy-site-cfedb80c-3953-4af9-aaed.onrender.com/sitemap.xml
+- **Robots.txt**: https://zappy-site-cfedb80c-3953-4af9-aaed.onrender.com/robots.txt
