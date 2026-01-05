@@ -1,6 +1,4 @@
-# Inkwell & Co. — Generative Engine Optimization Map
-
-> A creative services business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,15 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About Inkwell & Co.
-Inkwell & Co. is a business in the creative services industry.
-
-## Target Audience
-businesses needing branding, art collectors, galleries
-
-## Industry
-creative services
-
+## About Business
 ---
 
 # Additional Resources
